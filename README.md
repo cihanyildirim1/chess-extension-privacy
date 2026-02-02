@@ -1,5 +1,3 @@
-# chess-extension-privacy
-
 # Privacy Policy for Chess.com Sound Extension
 
 **Last Updated:** February 2, 2026
